@@ -47,7 +47,7 @@ function LandingPage() {
         <button className="btn">
           {" "}
           <Link className="link" to="/signin">
-            signin
+            Sign In
           </Link>{" "}
         </button>
       </div>
